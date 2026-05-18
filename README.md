@@ -27,6 +27,8 @@ I build data products, pricing models, and ML pipelines — bridging the gap bet
  now  ●  Analytical Engineer & Data Product Owner
  
 ---
+
+---
  
 ### Education
  
